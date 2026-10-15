@@ -38,9 +38,9 @@ const pages = {
           <div class="rule__note">
             <strong>Минимальное КД между рангами:</strong>
             <ul>
-              <li><span style="color:white">Младший состав:</span> 2 сутки (48 часов)</li>
-              <li><span style="color:white">Средний состав:</span> 4 суток (96 часов)</li>
-              <li><span style="color:white">Старший состав:</span> 7 суток (168 часов)</li>
+              <li><span style="color:white">Младший состав:</span> 1 сутки (24 часов)</li>
+              <li><span style="color:white">Средний состав:</span> 2 суток (48 часов)</li>
+              <li><span style="color:white">Старший состав:</span> 3 суток (72 часов)</li>
             </ul>
           </div>
           <p>Отсчёт КД начинается <strong>с момента присвоения текущего ранга</strong>.</p>
@@ -872,9 +872,9 @@ const pages = {
           <div class="rule__note">
             <strong>Минимальное КД между рангами:</strong>
             <ul>
-              <li><span style="color:white">Младший состав:</span> 2 сутки (48 часов)</li>
-              <li><span style="color:white">Средний состав:</span> 4 суток (96 часов)</li>
-              <li><span style="color:white">Старший состав:</span> 7 суток (168 часов)</li>
+              <li><span style="color:white">Младший состав:</span> 1 сутки (24 часов)</li>
+              <li><span style="color:white">Средний состав:</span> 2 суток (48 часов)</li>
+              <li><span style="color:white">Старший состав:</span> 3 суток (72 часов)</li>
             </ul>
           </div>
           <p>Отсчёт КД начинается <strong>с момента присвоения текущего ранга</strong>.</p>
